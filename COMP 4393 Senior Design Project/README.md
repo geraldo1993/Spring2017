@@ -5,7 +5,7 @@ BUILDING A 4WD AUTONOMOUS CAR WITH ARDUINO
 This project involves building a 4WD car with an ultrasonic sensor that can detect nearby objects and change its direction to avoid these objects. The ultrasonic sensor will be attached to a servo motor which is constantly scanning left and right looking for objects in its way.
 <br>
 
-I Will  extend this project by adding more sensors such as ultrasonic sensor to the rear so that the car doesn’t reverse into objects, speed detection sensors to determine speed, line following sensors, and LED brake lights. I will even add light sensors and LEDs to turn headlights on in low-light conditions or a Bluetooth connection to control the car through a mobile app.
+I Will  extend this project by adding more sensors such as ultrasonic sensor to the rear so that the car doesn’t reverse into objects, speed detection sensors to determine speed, line following sensors, and LED brake lights. I will even add light sensors and LEDs to turn headlights on in low-light conditions or a Bluetooth/Wifi connection to control the car through a mobile app.
 
 Video : https://www.youtube.com/watch?v=eClT08-ZBf8
 ### Parts required
