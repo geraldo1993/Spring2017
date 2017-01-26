@@ -67,9 +67,4 @@ That’s it! After all these long steps I put the batteries and started messing 
 
 **Diagram**
 
-
-<figure class="third">
-  <a href="/img/howtowire.png"><img
-  src="/img/howtowire.png" alt="image"></a>
-
-  </figure>
+![Diagram ](/img/howtowire.png.png)
