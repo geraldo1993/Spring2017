@@ -43,6 +43,8 @@ Below are images of the main components you need (apart from the wiring and batt
 
 
 
+<br> 
+
       <figure class="third">
             <a href="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16178778_1374395825967461_4471416191515180410_o.jpg?oh=39f2002102f8c43c82ba1cfe8868e1f9&oe=59036BFD"><img src="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16178778_1374395825967461_4471416191515180410_o.jpg?oh=39f2002102f8c43c82ba1cfe8868e1f9&oe=59036BFD" alt="image"></a>
 
