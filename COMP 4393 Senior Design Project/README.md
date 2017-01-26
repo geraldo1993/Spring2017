@@ -37,8 +37,8 @@ Below are images of the main components you need (apart from the wiring and batt
 
 
 
-- The first thing I Did was  to assemble all the car chassis parts and attach the motors to the wheels.
-- Then started Wiring it up( It Took me almost 6 hours to figure out where which wire goes where ). To make your life easier I'm Including the steps here :
+The first thing I Did was  to assemble all the car chassis parts and attach the motors to the wheels.
+Then started Wiring it up( It Took me almost 6 hours to figure out where which wire goes where ). To make your life easier I'm Including the steps here :
 
 ## How to Connect the Wires
 
@@ -63,3 +63,13 @@ You can use sticky tape, blu-tack, glue or a 3D printed/laser cut mount or whate
 18. Attach the ECHO pin from the ultrasonic sensor to signal (S) pin 9 on the Sensor Shield. Attach the VCC pin from the Ultrasonic Sensor to the voltage (V) pin 10 on the Sensor Shield. Lastly, attach the GND pin from the Ultrasonic Sensor to the GND (G) pin 11 on the Sensor Shield.
 19. Now attach the Sensor Shield on top of the Arduino Uno board making sure to not bend any pins. Connect a 9V Battery Barrel Jack Connector to a 9V battery and then plug this in to the Arduino’s barrel jack (see diagram below).
 That’s it! After all these long steps I put the batteries and started messing around with the code.
+
+
+**Diagram**
+
+
+<figure class="third">
+  <a href="/img/howtowire.png"><img
+  src="/img/howtowire.png" alt="image"></a>
+
+  </figure>
