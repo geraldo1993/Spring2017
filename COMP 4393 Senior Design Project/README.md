@@ -36,14 +36,15 @@ Here is what I  will Use:
 Below are images of the main components you need (apart from the wiring and batteries) – the different robot parts, shields, modules and sensors.
 
 <figure class="third">
-      <a href="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395819300795/?type=3&theater"><img src="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395819300795/?type=3&theater" alt="image"></a>
+      <a href="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16299659_1374395819300795_2340426188901753931_o.jpg?oh=5a378a572bef97cd11b7ed59bb9c5069&oe=590B05EA"><img
+       src="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16299659_1374395819300795_2340426188901753931_o.jpg?oh=5a378a572bef97cd11b7ed59bb9c5069&oe=590B05EA" alt="image"></a>
 
       </figure>
 
 
 
       <figure class="third">
-            <a href="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395825967461/?type=3&theater"><img src="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395825967461/?type=3&theater" alt="image"></a>
+            <a href="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16178778_1374395825967461_4471416191515180410_o.jpg?oh=39f2002102f8c43c82ba1cfe8868e1f9&oe=59036BFD"><img src="https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/16178778_1374395825967461_4471416191515180410_o.jpg?oh=39f2002102f8c43c82ba1cfe8868e1f9&oe=59036BFD" alt="image"></a>
 
             </figure>
 
