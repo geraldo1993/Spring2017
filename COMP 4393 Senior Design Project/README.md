@@ -67,4 +67,4 @@ That’s it! After all these long steps I put the batteries and started messing 
 
 **Diagram**
 
-![Diagram ](/img/howtowire.png.png)
+![Diagram ](/img/howtowire.png)
