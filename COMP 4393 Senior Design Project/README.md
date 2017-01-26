@@ -67,4 +67,4 @@ That’s it! After all these long steps I put the batteries and started messing 
 
 **Diagram**
 
-![Diagram ](/img/howtowire.png)
+![Diagram ](/COMP 4393 Senior Design Project/img/howtowire.png)
