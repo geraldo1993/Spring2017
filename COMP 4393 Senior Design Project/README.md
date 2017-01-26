@@ -9,8 +9,7 @@ I Will  extend this project by adding more sensors such as ultrasonic sensor to 
 
 
 
-<iframe width="300" height="315" src="https://www.youtube.com/embed/eClT08-ZBf8" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eClT08-ZBf8" frameborder="0" allowfullscreen></iframe>
 
 ### Parts required
 
@@ -85,3 +84,7 @@ That’s it! After all these long steps I put the batteries and started messing 
 **Diagram Shows how to Connect the Wires**
 
 ![Diagram ](/COMP 4393 Senior Design Project/img/howtowire.png)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eClT08-ZBf8" frameborder="0" allowfullscreen></iframe>
