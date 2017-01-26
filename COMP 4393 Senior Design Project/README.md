@@ -35,6 +35,20 @@ Here is what I  will Use:
 
 Below are images of the main components you need (apart from the wiring and batteries) – the different robot parts, shields, modules and sensors.
 
+<figure class="third">
+      <a href="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395819300795/?type=3&theater"><img src="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395819300795/?type=3&theater" alt="image"></a>
+
+      </figure>
+
+
+
+      <figure class="third">
+            <a href="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395825967461/?type=3&theater"><img src="https://www.facebook.com/grlbraho/photos/pcb.1374395922634118/1374395825967461/?type=3&theater" alt="image"></a>
+
+            </figure>
+
+
+
 
 
 The first thing I Did was  to assemble all the car chassis parts and attach the motors to the wheels.
@@ -65,6 +79,6 @@ You can use sticky tape, blu-tack, glue or a 3D printed/laser cut mount or whate
 That’s it! After all these long steps I put the batteries and started messing around with the code.
 
 
-**Diagram**
+**Diagram Shows how to Connect the Wires**
 
 ![Diagram ](/COMP 4393 Senior Design Project/img/howtowire.png)
