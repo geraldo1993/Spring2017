@@ -4,43 +4,43 @@ Some of these definitions are very precise, ethically speaking. Please be aware 
 Each definition should be at least 40 words in length.
 Complete the following Terms: 
 
-## Deontology
+## Deontology:
 
-## Duty-driven ethics
+## Duty-driven ethics:
 
-## Categorical Imperative 
+## Categorical Imperative:
 
-## Six Pillars of Character 
+## Six Pillars of Character :
 
-## Josephson Institute 
+## Josephson Institute :
 
-## Universality 
+## Universality :
 
-## Trustworthiness
+## Trustworthiness:
 
-## Respect
+## Respect:
 
-## Responsibility 
+## Responsibility :
 
-## Fairness 
+## Fairness :
 
-## Caring 
+## Caring :
 
-## Citizenship 
+## Citizenship :
 
-## Discernment 
+## Discernment :
 
-## Seven Steps to Better Decisions 
+## Seven Steps to Better Decisions :
 
 
-## Consequentialism 
+## Consequentialism :
 
-## Obstacles to Ethical Decision–Making 
+## Obstacles to Ethical Decision–Making: 
 
-## here does character come from?
+## here does character come from?:
 
-## Immanuel Kant
+## Immanuel Kant:
 
-##  Relativism
+##  Relativism:
 
-## Virtue
+## Virtue:
