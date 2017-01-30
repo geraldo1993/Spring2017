@@ -1,6 +1,6 @@
- # Key Ethical Terms and Ethical System
+# Key Ethical Terms and Ethical System
  
- ## Ethics:
+## Ethics:
  
  - Underlying principle, which one uses to make difficult ethical decisions. Learned as a child from significant adults. Learn to use more efficiently as one gets older. ( as the study of the origin and scope of the language of the morality)
  
