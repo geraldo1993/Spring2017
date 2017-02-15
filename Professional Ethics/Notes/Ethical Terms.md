@@ -16,7 +16,7 @@
     - External standard – Law, code, deity
     - True regardless of individual or group think
     - Independent of feelings - constant
-* Subjectice
+* Subjective
     -  Individual internal standard 
     - Depends on feelings or “likes”
     - True for individual or group, but not all others; Variable
